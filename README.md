@@ -1,42 +1,15 @@
-<h1 align="center">Hi 👋, I'm Deeptesh Rout</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deeptesh-rout&label=Profile%20views&color=0e75b6&style=flat" alt="deeptesh-rout" /> </p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1185608509954469938) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deepteshomm6) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deeptesh-rout-2b418b2b4) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23939972) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DeepteshRo46) 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deeptesh-rout" alt="deeptesh-rout" /></a> </p>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=deeptesh-rout&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=deeptesh-rout&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=deeptesh-rout&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="left"> <a href="https://twitter.com/deepteshro46" target="blank"><img src="https://img.shields.io/twitter/follow/deepteshro46?logo=twitter&style=for-the-badge" alt="deepteshro46" /></a> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=deeptesh-rout&icon=2&color=12)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on **Nothing**
-
-- 🌱 I’m currently learning **nothing**
-
-- 👯 I’m looking to collaborate on **nothing**
-
-- 🤝 I’m looking for help with **nothing**
-
-- 👨‍💻 All of my projects are available at [https://github.com/](https://github.com/)
-
-- 📝 I regularly write articles on [https://github.com/](https://github.com/)
-
-- 📫 How to reach me **deepteshrout2294@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/@deeptesh_rout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@deeptesh_rout" height="30" width="40" /></a>
-<a href="https://twitter.com/deepteshro46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepteshro46" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/deeptesh-rout-2b418b2b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deeptesh-rout-2b418b2b4" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/23939972" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23939972" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=61560119620774" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61560119620774" height="30" width="40" /></a>
-<a href="https://instagram.com/deepteshomm6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deepteshomm6" height="30" width="40" /></a>
-<a href="https://discord.gg/1185608509954469938" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1185608509954469938" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deeptesh-rout&show_icons=true&locale=en&layout=compact" alt="deeptesh-rout" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deeptesh-rout&show_icons=true&locale=en" alt="deeptesh-rout" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deeptesh-rout&" alt="deeptesh-rout" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
