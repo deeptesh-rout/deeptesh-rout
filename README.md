@@ -27,9 +27,9 @@
 <a href="https://twitter.com/deepteshro46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepteshro46" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/deeptesh-rout-2b418b2b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deeptesh-rout-2b418b2b4" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23939972" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23939972" height="30" width="40" /></a>
-<a href="https://fb.com/deeptesh rout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="deeptesh rout" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=61560119620774" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61560119620774" height="30" width="40" /></a>
 <a href="https://instagram.com/deepteshomm6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deepteshomm6" height="30" width="40" /></a>
-<a href="https://discord.gg/deepteshrout2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="deepteshrout2004" height="30" width="40" /></a>
+<a href="https://discord.gg/1185608509954469938" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1185608509954469938" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
