@@ -1,3 +1,25 @@
+<b> <i> FOLLOW ME </i> </b>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Deeptesh Rout</h1>
 <p align="left"> <img src="https://raw.githubusercontent.com/priyan1995/priyan1995/master/readme-image.gif" alt="deeptesh-rout" /> </p>
