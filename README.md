@@ -2,28 +2,19 @@
   <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm <b>Deeptesh Rout</b></h1>
+<h1 align="center"><b><span style="font-size: 50px;">Hi 👋, I'm Deeptesh Rout</span></b></h1>
 
-
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&color=00F0FF&center=true&vCenter=true&width=700&lines=Student+%7C+Developer+%7C+Visionary;Turning+Ideas+Into+Digital+Reality;Web+Dev+%7C+Android+%7C+Tech+Explorer;Welcome+To+My+Universe..."/>
-
-
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=4000&color=00F0FF&center=true&vCenter=true&width=700&lines=Student+%7C+Developer+%7C+Visionary;Turning+Ideas+Into+Digital+Reality;Web+Dev+%7C+Android+%7C+Tech+Explorer;Welcome+To+My+Universe..."/>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
-
-
-
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/priyan1995/priyan1995/master/readme-image.gif" alt="deeptesh-rout" />
 </p>
 
-<h3 align="center">Student</h3>
+<h2 align="center"><b><span style="font-size: 32px;">Student</span></b></h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=deeptesh-rout&label=Profile%20views&color=0e75b6&style=flat" alt="deeptesh-rout" />
@@ -31,13 +22,12 @@
 
 ---
 
-### 🚀 About Me
+<h2><b><span style="font-size: 32px;">🚀 About Me</span></b></h2>
 
 - 🔭 I’m currently working on **WEB DEVELOPMENT**  
 - 👯 I’m looking to collaborate on **ANDROID DEVELOPMENT**  
 - 🤝 I’m looking for help with **NOTHING**  
 - 🌱 I’m currently learning **Web Development**  
-
 - 📫 Reach me at **deepteshrout2294@gmail.com**  
 - 👨‍💻 All of my projects: **https://github.com/deeptesh-rout**  
 - 📝 I regularly write articles here: **https://github.com/deeptesh-rout**  
@@ -45,7 +35,7 @@
 
 ---
 
-## 🔗 Connect With Me
+<h2><b><span style="font-size: 32px;">🔗 Connect With Me</span></b></h2>
 
 <p align="left">
 <a href="https://twitter.com/deepteshro46" target="_blank">
@@ -61,7 +51,7 @@
 
 ---
 
-## 🌐 Profiles
+<h2><b><span style="font-size: 32px;">🌐 Profiles</span></b></h2>
 
 <p align="left">
 <a href="https://github.com/deeptesh-rout" target="_blank">
@@ -74,7 +64,7 @@
 
 ---
 
-## 🛠️ Languages & Tools
+<h2><b><span style="font-size: 32px;">🛠️ Languages & Tools</span></b></h2>
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/apple_objectivec-icon.svg" width="40" height="40"/>
@@ -101,7 +91,7 @@
 
 ---
 
-## ⭐ GitHub Streak
+<h2 align="center"><b><span style="font-size: 32px;">⭐ GitHub Streak</span></b></h2>
 
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=deeptesh-rout&theme=transparent" />
@@ -113,21 +103,19 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-<h3 align="center">📊 GitHub Statistics</h3>
+<h2 align="center"><b><span style="font-size: 32px;">📊 GitHub Statistics</span></b></h2>
 
 <div align="center">
-
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=deeptesh-rout&theme=transparent" height="180em" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deeptesh-rout&theme=transparent" height="180em" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deeptesh-rout&theme=transparent" height="180em" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deeptesh-rout&theme=transparent" height="180em" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deeptesh-rout&theme=transparent" height="180em" />
-
 </div>
 
 ---
 
-## ⚡ Activity Graph
+<h2 align="center"><b><span style="font-size: 32px;">⚡ Activity Graph</span></b></h2>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=deeptesh-rout&theme=github" />
