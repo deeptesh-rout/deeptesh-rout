@@ -91,14 +91,6 @@
 
 ---
 
-<h2 align="center"><b><span style="font-size: 32px;">⭐ GitHub Streak</span></b></h2>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=deeptesh-rout&theme=transparent" />
-</p>
-
----
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
