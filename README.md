@@ -8,11 +8,13 @@
 <br/>
 
 <!-- TYPING HEADLINE -->
+<!-- TYPING HEADLINE -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+intelligent+systems+from+first+principles;ML+%7C+Full+Stack+%7C+Android+%7C+Open+Source;B.Tech+CSE+%40+SOA+University+%E2%80%A2+CGPA+9.23;GSSoC+Contributor+%7C+Kaggle+Practitioner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+intelligent+systems+from+first+principles;ML+%7C+Full+Stack+%7C+Android+%7C+Open+Source;B.Tech+Computer+Science+Student;GSSoC+Contributor+%7C+Kaggle+Practitioner" alt="Typing SVG" />
   </a>
 </div>
+
 
 <br/>
 
