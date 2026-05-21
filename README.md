@@ -255,7 +255,7 @@ Class-based 2D shooter with procedurally generated audio, five adaptive enemy AI
 | `GSSoC Contributor` | GirlScript Summer of Code — open source program contributor |
 | `Kaggle Practitioner` | Competed in ML classification & prediction challenges |
 | `Google Gemma 3n Challenge` | Participated in applied AI research challenge |
-| `CGPA 9.23` | ITER, SOA University — top academic performer |
+
 
 </div>
 
