@@ -15,6 +15,11 @@
 <div align="center">
 
 
+
+
+
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/deeptesh-rout-2b418b2b4)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge\&logo=kaggle\&logoColor=white)](https://kaggle.com/deepteshrout)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/deeptesh-rout)
@@ -22,7 +27,24 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:deepteshrout2294@gmail.com)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500.svg?style=for-the-badge\&logo=reddit\&logoColor=white)](https://www.reddit.com/user/Cultural_Yam_3490/)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF.svg?style=for-the-badge\&logo=bluesky\&logoColor=white)](https://bsky.app/profile/deepteshrout2004.bsky.social)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF.svg?style=for-the-badge\&logo=twitch\&logoColor=white)](https://www.twitch.tv/deepteshrout)
+
+[![Blog](https://img.shields.io/badge/Blog-FF5722.svg?style=for-the-badge\&logo=blogger\&logoColor=white)](https://deepteshrout.blogspot.com/)
+[![Patreon](https://img.shields.io/badge/Patreon-F96854.svg?style=for-the-badge\&logo=patreon\&logoColor=white)](https://www.patreon.com/cw/DEEPTESHROUT)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge\&logo=stackoverflow\&logoColor=white)](https://stackoverflow.com/users/23939972/deeptesh-rout)
+[![Substack](https://img.shields.io/badge/Substack-FF6719.svg?style=for-the-badge\&logo=substack\&logoColor=white)](https://substack.com/@deepteshrout)
+[![Stack Exchange](https://img.shields.io/badge/Stack%20Exchange-1E5397.svg?style=for-the-badge\&logo=stackexchange\&logoColor=white)](https://stackexchange.com/users/31131691/deeptesh-rout)
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge\&logo=facebook\&logoColor=white)](https://www.facebook.com/profile.php?id=61560119620774)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/deeptesh2004/)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?style=for-the-badge\&logo=huggingface\&logoColor=black)](https://huggingface.co/deepteshrout)
+[![Behance](https://img.shields.io/badge/Behance-1769FF.svg?style=for-the-badge\&logo=behance\&logoColor=white)](https://www.behance.net/deepteshrout)
+
+
+
+
+
+
+
 
 
 </div>
