@@ -14,11 +14,16 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deeptesh-rout-2b418b2b4)&nbsp;
-[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/deepteshrout)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deeptesh-rout)&nbsp;
-[![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/deepteshro46)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepteshrout2294@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/deeptesh-rout-2b418b2b4)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge\&logo=kaggle\&logoColor=white)](https://kaggle.com/deepteshrout)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/deeptesh-rout)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge\&logo=x\&logoColor=white)](https://twitter.com/deepteshro46)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:deepteshrout2294@gmail.com)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500.svg?style=for-the-badge\&logo=reddit\&logoColor=white)](https://www.reddit.com/user/Cultural_Yam_3490/)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF.svg?style=for-the-badge\&logo=bluesky\&logoColor=white)](https://bsky.app/profile/deepteshrout2004.bsky.social)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF.svg?style=for-the-badge\&logo=twitch\&logoColor=white)](https://www.twitch.tv/deepteshrout)
+
 
 </div>
 
