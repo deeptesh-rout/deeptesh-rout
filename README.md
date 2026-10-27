@@ -39,7 +39,7 @@ I'm interested in **AI/ML engineering, machine learning research, backend develo
 - 📊 **Current CGPA:** 9.23/10
 - 💻 **Programming:** Python, Java, SQL
 - 🧠 **Interests:** Machine Learning, Deep Learning, NLP, LLM applications, RAG, and backend engineering
-- 🧩 **Problem solving:** 450+ LeetCode problems (approximate; update as your profile changes)
+- 🧩 **Problem solving:** 450+ LeetCode problems
 - 🎯 **Long-term direction:** Become a strong AI/ML engineer and build reliable, useful AI systems
 - 🌱 **Currently improving:** PyTorch, model evaluation, retrieval-augmented generation, APIs, and production engineering
 
